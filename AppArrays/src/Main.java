@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+package AppArrays.src;
+
+>>>>>>> feature/hu-290
 public class Main {
     public static void main(String[] args) {
 
@@ -21,7 +26,11 @@ public class Main {
 
 
         //Hacer doble bucle for/for
+<<<<<<< HEAD
 
+=======
+        System.out.println(config[XTEST][CAMB]);
+>>>>>>> feature/hu-290
 
         //CLAVE: DESARROLLO
 
